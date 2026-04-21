@@ -32,7 +32,7 @@ It eliminates manual interaction with waste and ensures proper segregation at th
 
 ---
 
-## 🧠 System Architecture
+##  System Architecture
 
 The system follows a **Sensor → Controller → Actuator** model using ESP32.
 
@@ -55,7 +55,7 @@ The system follows a **Sensor → Controller → Actuator** model using ESP32.
 
 ---
 
-## 🛠️ Hardware Components
+##  Hardware Components
 
 | Component                    | Quantity |
 | ---------------------------- | -------- |
