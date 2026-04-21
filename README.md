@@ -1,7 +1,7 @@
 
 #  Smart Dustbin for Home
 
-An **ESP32-based smart waste management system** that automates trash disposal using sensors, enabling **touchless operation, wet/dry segregation, overflow detection, and remote-controlled mobility**.
+An **ESP32 based smart waste management system** that automates trash disposal using sensors, enabling **touchless operation, wet/dry segregation, overflow detection, and remote controlled mobility**.
 
 ---
 
