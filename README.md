@@ -73,9 +73,3 @@ The system follows a **Sensor → Controller → Actuator** model using ESP32.
 ---
 
 
-
-If you want, I can also:
-
-* Add **circuit diagrams section**
-* Convert this into a **portfolio-grade README (with badges + GIFs)**
-* Or tailor it specifically for **placements / resume projects**
